@@ -1,44 +1,20 @@
-GreenMart-Refactored
+## Future Roadmap
 
-Overview
+This project represents my original Java web application built using Servlet, JSP, JDBC and Spring MVC concepts.
 
-GreenMart is an online plant nursery and garden supplies management system built using Java, Servlet, JSP, JDBC, MySQL and Spring MVC concepts.
+The repository is being preserved as a learning reference and completed project.
 
-This repository focuses on improving the original project by applying software design principles, better architecture, cleaner code, database improvements and documentation.
+After gaining stronger experience with Spring Boot, REST APIs, JPA/Hibernate, design patterns and backend architecture, I plan to revisit this project and perform a complete modernization effort.
 
- Technologies
+Planned future work:
 
-Java 17
-Servlet
-JSP
-JDBC
-MySQL
-HTML
-CSS
-Bootstrap
-Git
-GitHub
+ Migrate to Spring Boot
+ Implement REST APIs
+ Apply improved project architecture
+ Improve database design and relationships
+ Add validation and exception handling
+ Introduce DTOs and service-layer improvements
+ Improve security and authentication
+ Enhance documentation and testing
 
-
-Goals Of Refactoring
-
-Apply SOLID principles
-Reduce code duplication (DRY)
-Improve loose coupling
-Improve database design
-Improve project structure
-Add proper documentation
-Practice Git workflow
-
-
-Learning Objectives
-
-This repository serves as a learning project to improve backend development skills and prepare for enterprise Java development.
-
-Future Improvements
-
-Spring MVC improvements
-Spring Boot migration
-REST API implementation
-Better validation
-Improved database relationships
+Current Status: Learning Repository / Future Refactoring Candidate
